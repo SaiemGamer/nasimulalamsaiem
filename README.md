@@ -1,103 +1,66 @@
-<h2 align="left">Hi 👋! My name is Nasimul Alam Saiem and I'm a Software Developer | Technical Manager | AI Specialist | Web Developer 
- Profile Overview
-I am a 17-year-old technologist balancing high-level academic goals with a professional career in the tech industry. 
-As an O-Level candidate at BSISC, I lead as a Corporal in the BNCC while managing 
-full-stack web development projects and AI automation workflows.</h2>
+<h1 align="center">Hi 👋, I'm Nasimul Alam Saiem</h1>
+<h3 align="center">Software Developer | AI Specialist | Tech Entrepreneur</h3>
 
-###
+<p align="center">
+  <a href="https://nasimulalamsaiem.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Command_Center_Elite-00b7ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://activity-of-saiem.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Activity_Vault-00ff88?style=for-the-badge&logo=codeigniter&logoColor=black" alt="Portfolio" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🕵️‍♂️ Profile Overview
+I am a 17-year-old technologist and freelance developer specializing in **AI automation, full-stack architecture, and workflow optimization**. Currently balancing my O-Level studies at BSISC (Expected 2026) with a thriving freelance career, I transform complex real-world problems into elegant digital solutions.
 
-<img align="right" height="150" src="https://i.gifer.com/HpXF.gif"  />
+- 🚀 **Entrepreneurship:** Successfully managing a freelance business, building custom e-commerce templates (OuraCart), interactive galleries (Gemini Prompts), and tailored AI tools.
+- 🧠 **AI Innovations:** Pioneered **100+ AI workflows** on the Youware platform (JSON prompts, generative image models), establishing a consistent $200+ monthly revenue stream.
+- ⚙️ **Currently Learning:** Pushing the boundaries of generative AI APIs and modern Swift iOS frameworks.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-###
+### 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <br />
+  <!-- Frontend & Design -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" height="50" alt="Frontend Skills" />
+  <br /><br />
+  <!-- Backend, AI & Hardware -->
+  <img src="https://skillicons.dev/icons?i=nodejs,python,swift,arduino,github,vscode" height="50" alt="Backend & Hardware Skills" />
+  <br />
 </div>
 
-###
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiemGamer&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160" alt="SaiemGamer's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiemGamer&theme=tokyonight&hide_border=true&layout=compact&langs_count=5" height="160" alt="Top Languages" />
 </div>
 
-###
+<br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=SaiemGamer&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app?username=SaiemGamer&theme=tokyonight&column=-1&row=1&margin-w=15&margin-h=15&no-bg=true&no-frame=true" height="160" alt="GitHub Trophies" />
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+### 🌐 Connect With Me
 
-###
+<div align="center">
+  <a href="https://www.instagram.com/its_not_saiem/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="mailto:saiemgamer1010@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="(https://nasimulalamsaiem.blogspot.com/#)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
